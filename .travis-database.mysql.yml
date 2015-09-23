@@ -1,0 +1,5 @@
+test:
+  adapter: mysql2
+  database: redmine_time_entries_filter_by_category_test
+  username: travis
+  encoding: utf8
