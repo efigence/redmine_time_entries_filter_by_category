@@ -1,5 +1,4 @@
 require_dependency 'time_entry_query'
-require 'pry'
 module RedmineTimeEntriesFilterByCategory
   module Patches
     module TimeEntryQueryPatch
