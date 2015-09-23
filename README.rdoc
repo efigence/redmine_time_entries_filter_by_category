@@ -1,3 +1,0 @@
-= redmine_time_entries_filter_by_category
-
-Description goes here
