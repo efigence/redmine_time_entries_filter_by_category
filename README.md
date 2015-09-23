@@ -1,4 +1,4 @@
-# Redmine Time Entries Filter By Category
+# Redmine Time Entries Filter By Category [![Build Status](https://travis-ci.org/efigence/redmine_time_entries_filter_by_category.svg?branch=master)](https://travis-ci.org/efigence/redmine_time_entries_filter_by_category)
 
 ### This plugin adds filter 'category' to time entry list.
 
