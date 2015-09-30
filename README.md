@@ -9,7 +9,7 @@ Developed and tested on Redmine 3.1.0.
 ## Installation
 
 1. Go to your Redmine installation's plugins/directory.
-2. `git clone git@github.com:efigence/redmine_show_assigned_to_activity.git`
+2. `git@github.com:efigence/redmine_time_entries_filter_by_category.git`
 3. Restart Redmine.
 
 ## Usage
